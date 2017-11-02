@@ -23,7 +23,7 @@ h6 {
 
 .img {
     border: 15px solid #3e2b14;
-    padding: 10px;
+    /*padding: 10px;*/
 }
 .topnav {
     font-size: 14px; 
@@ -39,9 +39,9 @@ h6 {
     padding-bottom: 50px;
     text-align: center;
     color: #3366ff;
-/*    background: url(../img/intro-bg.jpg) no-repeat center center;
+    background: url(../img/gooooo.png) no-repeat center center;
       background-size: cover;
-      */
+      
 }
 
 .intro-message {
@@ -163,13 +163,4 @@ h6 {
     ul.banner-social-buttons > li:last-child {
         margin-bottom: 0;
     }
-}
-
-footer {
-    padding: 50px 0;
-    background-color: #f8f8f8;
-}
-
-p.copyright {
-    margin: 15px 0 0;
 }
